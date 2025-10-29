@@ -30,3 +30,5 @@
 #| -> a | b (or)
 #^ -> a ^ b (XOR)
 #~ -> ~a (NOT)
+
+#teste
