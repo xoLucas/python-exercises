@@ -6,7 +6,7 @@ b = float(b)
 c = float(c)
 
 
-'''
+''' #Não terminado essa versão
 if a > b and b > c:
     print(f"{c}{b}{a}")
 elif b > a and a > c:
