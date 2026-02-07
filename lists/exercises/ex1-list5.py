@@ -16,9 +16,6 @@ def conta_negativo (L):
             c_n += 1
     return c_n
 
-
-
-
 def main ():
     
     print(f"Existem {conta_negativo(pede_lista())} núumeros negativos na lista")
